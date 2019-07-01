@@ -2,7 +2,7 @@
 This app will help you to book taxi as well as parking you can use this for your college project..thank me later :)<br />
 
 For Apk File:<br />
-Build > Debug >.apk<br />
+app-debug.apk <b>download directly<b/><br />
 
 # Modifications
 UI>UX overhaul every part of this app uses self made ui <br />
